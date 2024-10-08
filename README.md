@@ -35,7 +35,9 @@ This repository is open-source and available under the MIT License.
 
 ## Contact
 
-For any questions or suggestions, please reach out via the [Issues](https://github.com/yourusername/repository/issues) section.
+For any questions or suggestions, please reach out via the [Issues](https://github.com/PatilNi3/VARIOUS_ROADMAPS/issues) section.
 
 Happy learning!
+
+
 
